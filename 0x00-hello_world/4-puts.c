@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-* main - print a text and
-*
-*Return 0(success)
-*/
+ * main - prints a text
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
