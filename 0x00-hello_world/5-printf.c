@@ -1,10 +1,10 @@
 #include<stdio.h>
 
 /**
-* main - Entry point
-* Description: Programming is like building a multilingual puzzle
-* Retturn: 0
-*/
+ * main - prints a text
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
