@@ -2,8 +2,8 @@
 
 /**
 * main - Entry point
-*
-* Retturn: Always 0 (success)
+* Description: Programming is like building a multilingual puzzle
+* Retturn: 0
 */
 int main(void)
 {
