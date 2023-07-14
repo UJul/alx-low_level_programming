@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -s -fasm $CFILE
+gcc -S -fasm $CFILE
