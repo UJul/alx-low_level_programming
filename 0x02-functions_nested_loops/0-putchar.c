@@ -1,5 +1,4 @@
 #include "chiamaka.h"
-#include <math.h>
 
  /**
   *  main - entry point of the code
