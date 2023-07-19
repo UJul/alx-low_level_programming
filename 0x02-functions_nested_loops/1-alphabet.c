@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-  *main - entry point of the program 
-  *
-  *Return: Always.
-  */
+ * main - entry point of the program
+ *
+ * Return: Always 0.
+ */
 void print_alphabet(void)
 {
 	int a;
