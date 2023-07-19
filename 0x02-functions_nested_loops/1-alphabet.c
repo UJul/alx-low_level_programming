@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_aphabet - entry point of the program
+ * main - entry point of the program
  * The program print alphabet in low keys
  * Return: Always 0.
  */
