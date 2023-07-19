@@ -1,4 +1,4 @@
-#include "chiamaka.h"
+#include "main.h"
 
 /**
  * print_aphabet - entry point of the program
