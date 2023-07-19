@@ -3,7 +3,7 @@
 /**
  * main - Program that prints_alphabet in lowercase, in a new line.
  *
- * Return: Always 0 (Success)
+ * Return: void
  */
 
 void print_alphabet(void)
