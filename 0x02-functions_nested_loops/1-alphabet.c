@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - entry point of the program
- * The program print alphabet in low keys
- * Return: Always 0.
+ *main - entry point of the program 
+ *
+ *Return: Always.
  */
 void print_alphabet(void)
 {
