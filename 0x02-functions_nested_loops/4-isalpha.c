@@ -3,7 +3,7 @@
 /**
   *_isalpha - Prints text.
   *@c : Print @.
-  *Return : 1,0.
+  *Return: Always 0
  */
 int _isalpha(int c)
 {
