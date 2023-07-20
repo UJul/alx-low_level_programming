@@ -2,8 +2,8 @@
 
 /**
  * _islower - print text (int c).
- * @c:
- * Return: Always 0 (Success)
+ * @c : Print @c
+ * Return: Always 0
  */
 int _islower(int c)
 {
