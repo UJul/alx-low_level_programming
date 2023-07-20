@@ -3,13 +3,13 @@
 /**
   *_isalpha - Prints text.
   *@c : Print @.
-  *Return : Always 0.
+  *Return : _isalpha.
  */
 int _isalpha(int c)
 {
-    if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
+    if((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
 {
 	return (1);
-}    
-    return (0);
+}
+	return (0);
 }
