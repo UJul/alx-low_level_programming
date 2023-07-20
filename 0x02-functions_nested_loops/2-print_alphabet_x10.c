@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - Prints function print_alphabet_x10.
- * In lowercase, followed by a new line.
- * Return: Always 0.
+ * main - Prints 2-alphabet_x10 in in lowercase.
+ *
+ * Return: Always 0
  */
 void print_alphabet_x10(void)
 {
