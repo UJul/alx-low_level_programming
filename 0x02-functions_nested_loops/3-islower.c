@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * main - function _islower
- *
+ * islower - print text.
  * Return: Always 0 (Success)
  */
 int _islower(int c)
